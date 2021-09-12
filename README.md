@@ -1,2 +1,2 @@
-# _KOTLIN
+## _KOTLIN Tutorial project
 Kotlin Tutorials
