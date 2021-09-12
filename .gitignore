@@ -27,6 +27,7 @@
 */logs/
 */target
 */META-INF/
+*out/
 
 
 .idea/
