@@ -23,17 +23,15 @@
 .project
 .settings/
 .tmpBin/
-*/bin/
-*/logs/
-*/target
-*/META-INF/
+*bin/
+*logs/
+*target
+*META-INF/
 *out/
-
-
 .idea/
 *.iml
 .vscode/
 
-/.metadata/
+.metadata/
 
 
